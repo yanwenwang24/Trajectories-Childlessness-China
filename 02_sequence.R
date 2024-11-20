@@ -36,7 +36,6 @@ seq_childless <- seqdef(seq_childless_1540[, 2:302],
 # Define color palettes
 cpal(seq_childless) <- c("#7eb0d5", "#bd7ebe", "#ffb55a", "#b2e061", "#fd7f6f")
 
-# Calculate entropy, turbulence, and complexity
 # Calculate within-individual longitudinal entropy, turbulence, and complexity
 seq_childless_1540$entropy <- as.data.frame(seqient(seq_childless))$Entropy
 seq_childless_1540$turbulence <- as.data.frame(seqST(seq_childless))$Turbulence

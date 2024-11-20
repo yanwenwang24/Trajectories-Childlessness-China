@@ -35,5 +35,7 @@ source("functions.R")
 
 # Import data
 load("Datasets/seq_marital_1540.RData")
+
+# Download and import this file from the official CFPS website
 cfps2018_familyroster <- read_stata("Datasets/cfps2018_familyroster.dta") %>%
   mutate_all(funs(replace(., . < 0, NA)))

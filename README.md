@@ -2,7 +2,7 @@
 
 Replication package
 
-Wang, Yanwen, and Zheng Mu. 2025. “Partnership Trajectories toward Childlessness in China.” *Family Relations* 1–15. doi: [10.1111/fare.13136](https://onlinelibrary.wiley.com/doi/abs/10.1111/fare.13136).
+Wang, Yanwen, and Zheng Mu. 2025. “Partnership Trajectories toward Childlessness in China.” Family Relations 74(2):901–15. doi: [10.1111/fare.13136](https://onlinelibrary.wiley.com/doi/abs/10.1111/fare.13136).
 
 ## Abstract
 

@@ -1,2 +1,6 @@
 .DS_Store
+Datasets/cfps_cleaned.xlsx
 Datasets/cfps2018_familyroster.dta
+Datasets/cfps2010adult_202008.dta
+Datasets/codebook.jpeg
+00_tidy.R
